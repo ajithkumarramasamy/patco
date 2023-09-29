@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/patco/static/css/main.cde5228a.css",
+    "main.js": "/patco/static/js/main.9db6e9af.js",
+    "static/js/787.3b9638cd.chunk.js": "/patco/static/js/787.3b9638cd.chunk.js",
+    "index.html": "/patco/index.html",
+    "main.cde5228a.css.map": "/patco/static/css/main.cde5228a.css.map",
+    "main.9db6e9af.js.map": "/patco/static/js/main.9db6e9af.js.map",
+    "787.3b9638cd.chunk.js.map": "/patco/static/js/787.3b9638cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde5228a.css",
+    "static/js/main.9db6e9af.js"
+  ]
+}
